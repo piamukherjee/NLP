@@ -1,5 +1,6 @@
 # NLP
  My NLP codes
+<<<<<<< HEAD
  
  NLP - primer
  ------------
@@ -26,4 +27,5 @@ Build a chatbot
 ------------------
 https://www.youtube.com/watch?v=9KZwRBg4-P0
 Scrape info from a webpage. Analyse info. Answer questions using sentence similarity.
+=======
 
